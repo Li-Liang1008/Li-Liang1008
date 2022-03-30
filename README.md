@@ -2,8 +2,7 @@
 - 👀 I’m interested in MIMIC III/IV study
 - 🌱 I’m currently learning about machine learning 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+ 
  Tel：03-8561825#12184
  Mail：li.liang.chuang@gmail.com.tw
 
